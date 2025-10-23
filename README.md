@@ -2,14 +2,14 @@
 
 Welcome to my Data Analyst Portfolio!  
 I’m passionate about transforming raw data into meaningful insights using analytical tools and storytelling dashboards.  
-Currently pursuing B.Tech and building a strong foundation in Data Analytics through real projects and simulations.
+Currently pursuing B.Tech(1st Year) and building a strong foundation in Data Analytics through real projects and simulations.
 
 ---
 
 ## 🚀 Projects
 
 ### 🏎 Tableau Dashboard: Top 5 F1 Cars  
-An interactive Tableau dashboard analyzing performance metrics of top F1 cars — includes speed, constructors, and performance comparisons.  
+An interactive Tableau dashboard analyzing performance metrics of top F1 cars — includes wins,win%,KPI and performance comparisons.  
 **🔗 [View Project on Tableau Public](https://public.tableau.com/views/Top-5F1cars/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**  
 
 ---
